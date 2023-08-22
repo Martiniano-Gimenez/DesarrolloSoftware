@@ -32,7 +32,7 @@ def main():
                 print("Error: Debe ingresar ambos valores antes de realizar la operación.")
             else:
                 print("Multiplicación:", valor1 * valor2)
-        elif opcion == 9:
+        elif opcion == 6:
             if valor1 is None or valor2 is None:
                 print("Error: Debe ingresar ambos valores antes de realizar la operación.")
             else:
